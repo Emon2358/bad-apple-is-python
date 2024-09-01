@@ -6,9 +6,13 @@ cmdコンソールで実行する前に以下のコマンドを実行してく�
 
 1.color f0
 
-2.cd C:\Users\user名\Downloads\bad apple is python
+2.解凍したフォルダーが二重になっているのでその二つ目のフォルダーを取り出してください
 
-3.python pygame.py
+3.cd C:\Users\user名\Downloads\bad apple is python
+
+4.python pygame.py
 
 これでお願いします
+
+追記zipの中に書いてあるtxtは関係ないです
 
