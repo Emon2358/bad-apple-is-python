@@ -8,7 +8,7 @@ cmdコンソールで実行する前に以下のコマンドを実行してく�
 
 2.解凍したフォルダーが二重になっているのでその二つ目のフォルダーを取り出してください
 
-3.cd C:\Users\user名\Downloads\bad apple is python
+3.cd C:\Users\user名\Downloads\badapple is python
 
 4.python pygame.py
 
